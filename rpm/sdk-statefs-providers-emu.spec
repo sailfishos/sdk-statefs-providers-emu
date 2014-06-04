@@ -3,7 +3,7 @@ Name:       sdk-statefs-providers-emu
 Summary:    Emulation of multiple statefs properties
 Version:    0.1
 Release:    1
-Group:      Qt/Qt
+Group:      System/Packages
 License:    BSD
 URL:        https://github.com/sailfish-sdk/sdk-statefs-providers-emu
 Source0:    %{name}-%{version}.tar.bz2
