@@ -5,7 +5,7 @@ Version:    0.1
 Release:    1
 Group:      Qt/Qt
 License:    BSD
-URL:        http://example.org/
+URL:        https://github.com/sailfish-sdk/sdk-statefs-providers-emu
 Source0:    %{name}-%{version}.tar.bz2
 BuildArch:  noarch
 
