@@ -5,7 +5,7 @@ Version:    0.1
 Release:    1
 Group:      System/Packages
 License:    BSD
-URL:        https://github.com/sailfish-sdk/sdk-statefs-providers-emu
+URL:        https://github.com/sailfishos/sdk-statefs-providers-emu
 Source0:    %{name}-%{version}.tar.bz2
 BuildArch:  noarch
 

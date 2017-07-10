@@ -1,6 +1,6 @@
 [Unit]
 Description=Emulates multiple statefs properties
-Documentation=https://github.com/sailfish-sdk/sdk-statefs-providers-emu/
+Documentation=https://github.com/sailfishos/sdk-statefs-providers-emu/
 After=etc-mersdk-share.mount
 Before=connman.service
 
